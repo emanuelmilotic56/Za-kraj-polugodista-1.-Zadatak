@@ -1,0 +1,7 @@
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodišta-1. Zadatak\Zadaci za kraj polugodišta-1. Zadatak\bin\Debug\Zadaci_za_kraj_polugodišta_1.Zadatak.exe.config
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodišta-1. Zadatak\Zadaci za kraj polugodišta-1. Zadatak\bin\Debug\Zadaci_za_kraj_polugodišta_1.Zadatak.exe
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodišta-1. Zadatak\Zadaci za kraj polugodišta-1. Zadatak\bin\Debug\Zadaci_za_kraj_polugodišta_1.Zadatak.pdb
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodišta-1. Zadatak\Zadaci za kraj polugodišta-1. Zadatak\obj\Debug\Zadaci za kraj polugodišta-1. Zadatak.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodišta-1. Zadatak\Zadaci za kraj polugodišta-1. Zadatak\obj\Debug\Zadaci za kraj polugodišta-1. Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodišta-1. Zadatak\Zadaci za kraj polugodišta-1. Zadatak\obj\Debug\Zadaci_za_kraj_polugodišta_1.Zadatak.exe
+C:\Users\Milotić\source\repos\Zadaci za kraj polugodišta-1. Zadatak\Zadaci za kraj polugodišta-1. Zadatak\obj\Debug\Zadaci_za_kraj_polugodišta_1.Zadatak.pdb
